@@ -16,7 +16,8 @@
 
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> Demo
-![game](https://raw.githubusercontent.com/AshkanPoyber/Dino-Game-HW/Dino-Demo.gif)
+![game](https://raw.githubusercontent.com/AshkanPoyber/Dino-Game-HW/main/Dino-Demo.gif)
+
 
 
 
